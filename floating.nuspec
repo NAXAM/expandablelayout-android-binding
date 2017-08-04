@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Naxam.expandablelayout.Droid</id>
+    <version>1.6.0</version>
+    <authors>NAXAM CO., LTD</authors>
+    <owners>NAXAM CO., LTD</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/NAXAM/expandablelayout-android-binding</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/25535951</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin Binding Library - Android expandablelayout</description>
+    <releaseNotes>expandablelayout 1.6.0</releaseNotes>
+    <copyright>Copyright (c) 2017 NAXAM</copyright>
+    <tags>expandablelayout Naxam Xamarin Binding Android expandablelayout</tags>
+  </metadata>
+  <files>
+        <file src="Naxam.expandablelayout.Droid/bin/Release/Naxam.expandablelayout.Droid.dll" target="lib/MonoAndroid10/Naxam.expandablelayout.Droid.dll" />
+    </files>
+</package>
