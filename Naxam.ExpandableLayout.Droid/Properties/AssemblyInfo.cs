@@ -7,12 +7,12 @@ using Android.App;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Naxam.ExpandableLayout.Droid")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Xamarin.Android binding library - AAkira ExpandableLayout")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Naxam.ExpandableLayout.Droid")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("NAXAM COMPANY LIMITED")]
+[assembly: AssemblyProduct("XBindings")]
+[assembly: AssemblyCopyright("Copyright © 2017-present NAXAM")]
+[assembly: AssemblyTrademark("NAXAM")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
 
@@ -26,5 +26,5 @@ using Android.App;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.6.0.1")]
+[assembly: AssemblyFileVersion("1.6.0.1")]
